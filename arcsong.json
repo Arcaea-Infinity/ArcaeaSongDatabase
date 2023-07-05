@@ -3589,6 +3589,81 @@
             ]
         },
         {
+            "song_id": "bulletwaiting",
+            "difficulties": [
+                {
+                    "name_en": "Bullet Waiting for Me (James Landino remix)",
+                    "name_jp": "",
+                    "artist": "Nikki Simmons",
+                    "bpm": "107",
+                    "bpm_base": 107.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 150,
+                    "side": 0,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_light",
+                    "date": 1687910401,
+                    "version": "4.5",
+                    "difficulty": 4,
+                    "rating": 25,
+                    "note": 325,
+                    "chart_designer": "CERiNG",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Bullet Waiting for Me (James Landino remix)",
+                    "name_jp": "",
+                    "artist": "Nikki Simmons",
+                    "bpm": "107",
+                    "bpm_base": 107.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 150,
+                    "side": 0,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_light",
+                    "date": 1687910401,
+                    "version": "4.5",
+                    "difficulty": 8,
+                    "rating": 45,
+                    "note": 390,
+                    "chart_designer": "CERiNG",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Bullet Waiting for Me (James Landino remix)",
+                    "name_jp": "",
+                    "artist": "Nikki Simmons",
+                    "bpm": "107",
+                    "bpm_base": 107.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 150,
+                    "side": 0,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_light",
+                    "date": 1687910401,
+                    "version": "4.5",
+                    "difficulty": 16,
+                    "rating": 81,
+                    "note": 701,
+                    "chart_designer": "CERiNG",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                }
+            ],
+            "alias": []
+        },
+        {
             "song_id": "callimakarma",
             "difficulties": [
                 {
@@ -3904,6 +3979,83 @@
             ],
             "alias": [
                 "红镰"
+            ]
+        },
+        {
+            "song_id": "chaos",
+            "difficulties": [
+                {
+                    "name_en": "CHAOS",
+                    "name_jp": "",
+                    "artist": "Æsir",
+                    "bpm": "150",
+                    "bpm_base": 150.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 169,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_boss",
+                    "date": 1687910404,
+                    "version": "4.5",
+                    "difficulty": 10,
+                    "rating": 55,
+                    "note": 646,
+                    "chart_designer": "絶滅",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "CHAOS",
+                    "name_jp": "",
+                    "artist": "Æsir",
+                    "bpm": "150",
+                    "bpm_base": 150.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 169,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_boss",
+                    "date": 1687910404,
+                    "version": "4.5",
+                    "difficulty": 14,
+                    "rating": 75,
+                    "note": 848,
+                    "chart_designer": "絶滅",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "CHAOS",
+                    "name_jp": "",
+                    "artist": "Æsir",
+                    "bpm": "150",
+                    "bpm_base": 150.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 169,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_boss",
+                    "date": 1687910404,
+                    "version": "4.5",
+                    "difficulty": 21,
+                    "rating": 109,
+                    "note": 1369,
+                    "chart_designer": "絶滅",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                }
+            ],
+            "alias": [
+                "混沌"
             ]
         },
         {
@@ -6118,6 +6270,83 @@
                 }
             ],
             "alias": []
+        },
+        {
+            "song_id": "devillicsphere",
+            "difficulties": [
+                {
+                    "name_en": "Devillic Sphere",
+                    "name_jp": "",
+                    "artist": "3R2",
+                    "bpm": "160",
+                    "bpm_base": 160.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 126,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_conflict",
+                    "date": 1687910402,
+                    "version": "4.5",
+                    "difficulty": 8,
+                    "rating": 40,
+                    "note": 490,
+                    "chart_designer": "₸öα$†ε₹",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Devillic Sphere",
+                    "name_jp": "",
+                    "artist": "3R2",
+                    "bpm": "160",
+                    "bpm_base": 160.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 126,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_conflict",
+                    "date": 1687910402,
+                    "version": "4.5",
+                    "difficulty": 14,
+                    "rating": 75,
+                    "note": 692,
+                    "chart_designer": "₸öα$†ε₹",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Devillic Sphere",
+                    "name_jp": "",
+                    "artist": "3R2",
+                    "bpm": "160",
+                    "bpm_base": 160.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 126,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_conflict",
+                    "date": 1687910402,
+                    "version": "4.5",
+                    "difficulty": 19,
+                    "rating": 99,
+                    "note": 1129,
+                    "chart_designer": "₸öα$†ε₹",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                }
+            ],
+            "alias": [
+                "恶魔球"
+            ]
         },
         {
             "song_id": "dialnote",
@@ -9022,7 +9251,9 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "银河之恋"
+            ]
         },
         {
             "song_id": "galaxyfriends",
@@ -11563,7 +11794,9 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "傲慢"
+            ]
         },
         {
             "song_id": "iconoclast",
@@ -12594,6 +12827,81 @@
                 "升天",
                 "糖糖"
             ]
+        },
+        {
+            "song_id": "internetyamero",
+            "difficulties": [
+                {
+                    "name_en": "INTERNET YAMERO",
+                    "name_jp": "",
+                    "artist": "Aiobahn feat. KOTOKO",
+                    "bpm": "185",
+                    "bpm_base": 185.0,
+                    "set": "single",
+                    "set_friendly": "Memory Archive",
+                    "time": 181,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "single2_conflict",
+                    "date": 1687910400,
+                    "version": "4.5",
+                    "difficulty": 8,
+                    "rating": 45,
+                    "note": 677,
+                    "chart_designer": "該当チャンネルが停止されたため、\nこの譜面は再生できません。",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "INTERNET YAMERO",
+                    "name_jp": "",
+                    "artist": "Aiobahn feat. KOTOKO",
+                    "bpm": "185",
+                    "bpm_base": 185.0,
+                    "set": "single",
+                    "set_friendly": "Memory Archive",
+                    "time": 181,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "single2_conflict",
+                    "date": 1687910400,
+                    "version": "4.5",
+                    "difficulty": 14,
+                    "rating": 75,
+                    "note": 987,
+                    "chart_designer": "該当チャンネルが停止されたため、\nこの譜面は再生できません。",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "INTERNET YAMERO",
+                    "name_jp": "",
+                    "artist": "Aiobahn feat. KOTOKO",
+                    "bpm": "185",
+                    "bpm_base": 185.0,
+                    "set": "single",
+                    "set_friendly": "Memory Archive",
+                    "time": 181,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "single2_conflict",
+                    "date": 1687910400,
+                    "version": "4.5",
+                    "difficulty": 19,
+                    "rating": 99,
+                    "note": 1222,
+                    "chart_designer": "該当チャンネルが停止されたため、\nこの譜面は再生できません。",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                }
+            ],
+            "alias": []
         },
         {
             "song_id": "izana",
@@ -13876,7 +14184,9 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "无法地点"
+            ]
         },
         {
             "song_id": "lazyaddiction",
@@ -14996,7 +15306,9 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "失去情感"
+            ]
         },
         {
             "song_id": "lostintheabyss",
@@ -15071,7 +15383,9 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "深渊"
+            ]
         },
         {
             "song_id": "lovelessdress",
@@ -15151,6 +15465,83 @@
                 "无爱之装",
                 "品如的衣服",
                 "锁心所爱连衣裙"
+            ]
+        },
+        {
+            "song_id": "lucidtraveler",
+            "difficulties": [
+                {
+                    "name_en": "Lucid Traveler",
+                    "name_jp": "",
+                    "artist": "Akira Complex vs 3R2",
+                    "bpm": "170-200",
+                    "bpm_base": 170.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 159,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_conflict",
+                    "date": 1687910403,
+                    "version": "4.5",
+                    "difficulty": 8,
+                    "rating": 45,
+                    "note": 634,
+                    "chart_designer": "Toaster vs ₸öα$†ε₹",
+                    "jacket_designer": "NC帝國",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Lucid Traveler",
+                    "name_jp": "",
+                    "artist": "Akira Complex vs 3R2",
+                    "bpm": "170-200",
+                    "bpm_base": 170.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 159,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_conflict",
+                    "date": 1687910403,
+                    "version": "4.5",
+                    "difficulty": 16,
+                    "rating": 83,
+                    "note": 1006,
+                    "chart_designer": "Toaster vs ₸öα$†ε₹",
+                    "jacket_designer": "NC帝國",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Lucid Traveler",
+                    "name_jp": "",
+                    "artist": "Akira Complex vs 3R2",
+                    "bpm": "170-200",
+                    "bpm_base": 170.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 159,
+                    "side": 1,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_conflict",
+                    "date": 1687910403,
+                    "version": "4.5",
+                    "difficulty": 20,
+                    "rating": 104,
+                    "note": 1341,
+                    "chart_designer": "Toaster vs ₸öα$†ε₹",
+                    "jacket_designer": "NC帝國",
+                    "jacket_override": true,
+                    "audio_override": false
+                }
+            ],
+            "alias": [
+                "清醒旅人"
             ]
         },
         {
@@ -17325,7 +17716,10 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "纽约",
+                "新乡"
+            ]
         },
         {
             "song_id": "nexttoyou",
@@ -23920,7 +24314,9 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "幸存者"
+            ]
         },
         {
             "song_id": "theultimacy",
@@ -24307,7 +24703,10 @@
                     "audio_override": false
                 }
             ],
-            "alias": []
+            "alias": [
+                "银河",
+                "牛奶路"
+            ]
         },
         {
             "song_id": "trapcrow",
@@ -24720,6 +25119,84 @@
                 }
             ],
             "alias": []
+        },
+        {
+            "song_id": "usedtobe",
+            "difficulties": [
+                {
+                    "name_en": "Used to be",
+                    "name_jp": "",
+                    "artist": "KIVΛ",
+                    "bpm": "140",
+                    "bpm_base": 140.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 186,
+                    "side": 0,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_light",
+                    "date": 1687910405,
+                    "version": "4.5",
+                    "difficulty": 6,
+                    "rating": 40,
+                    "note": 537,
+                    "chart_designer": "Luxance",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Used to be",
+                    "name_jp": "",
+                    "artist": "KIVΛ",
+                    "bpm": "140",
+                    "bpm_base": 140.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 186,
+                    "side": 0,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_light",
+                    "date": 1687910405,
+                    "version": "4.5",
+                    "difficulty": 12,
+                    "rating": 65,
+                    "note": 675,
+                    "chart_designer": "Luxance",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                },
+                {
+                    "name_en": "Used to be",
+                    "name_jp": "",
+                    "artist": "KIVΛ",
+                    "bpm": "140",
+                    "bpm_base": 140.0,
+                    "set": "cytusii",
+                    "set_friendly": "CYTUS II",
+                    "time": 186,
+                    "side": 0,
+                    "world_unlock": false,
+                    "remote_download": true,
+                    "bg": "cytus_light",
+                    "date": 1687910405,
+                    "version": "4.5",
+                    "difficulty": 18,
+                    "rating": 92,
+                    "note": 799,
+                    "chart_designer": "Luxance + Nitro",
+                    "jacket_designer": "",
+                    "jacket_override": false,
+                    "audio_override": false
+                }
+            ],
+            "alias": [
+                "过时人物",
+                "曾是"
+            ]
         },
         {
             "song_id": "valhallazero",
